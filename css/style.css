@@ -31,7 +31,7 @@ body {
     background-image: url(../images/bg-desktop.png);
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: bottom;
+    background-position: 0px bottom;
 
     display: flex;
     flex-direction: column;
